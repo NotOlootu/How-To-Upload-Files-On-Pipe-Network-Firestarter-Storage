@@ -19,6 +19,8 @@ pipe new-user USERNAME
 ```
 
 NOTES: Replace "USERNAME" with your choosen username
+
+To edit the command script, you can copy, paste & edit in notepad
       
 SAVE YOUR USER-ID, APP KEY & SOLANA PUBKEY
       
